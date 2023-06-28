@@ -1,0 +1,13 @@
+/*
+ * STEPPER_MOTOR_CONFIG.h
+ *
+ *  Created on: Apr 2, 2023
+ *      Author: abdelrhman
+ */
+
+#ifndef HAL_STEPPER_MOTOR_STEPPER_MOTOR_CONFIG_H_
+#define HAL_STEPPER_MOTOR_STEPPER_MOTOR_CONFIG_H_
+
+
+
+#endif /* HAL_STEPPER_MOTOR_STEPPER_MOTOR_CONFIG_H_ */
